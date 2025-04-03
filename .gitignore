@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Vite/CRA cache
+.vite/
+.vscode/
+
+# Optional
+coverage/
