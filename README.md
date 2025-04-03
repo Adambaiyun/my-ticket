@@ -48,5 +48,5 @@ npm run dev
 9. now u can use the ticket booking system through browser by http://localhost:3000/
 
 
-Enjoy your journey
+Enjoy your journey~
 
