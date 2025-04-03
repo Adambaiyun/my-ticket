@@ -50,3 +50,16 @@ npm run dev
 
 Enjoy your journey~
 
+
+ps:
+
+This is a basic version, something can be done in future:
+
+1. Input validation, currently has potential risk for SQL injection.
+2. UI layout can be improved
+3. Currently controller and logic handler are in one file, can be split
+4. No UT yet
+
+How overselling is prevented:
+
+The query i use is a update ... where ..., it will lock the row on database level. 
